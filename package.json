@@ -1,0 +1,9 @@
+{
+  "name": "eliza",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.7.0"
+  }
+}
